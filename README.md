@@ -58,7 +58,11 @@ Torch & Accelerate → backend for Hugging Face models
 **Project Structure**
 
 RestaurantNameGenerator/
+
 │── app.py                         # Streamlit app entry point
+
 │── langchain_helper_hug.py        # Helper functions using LangChain + HuggingFace
+
 │── requirements.txt                # Dependencies
+
 │── README.md                       # Project documentation
